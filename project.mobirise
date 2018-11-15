@@ -10,7 +10,7 @@
     },
     "favicon": "",
     "publishType": "local",
-    "publishPath": "file:///C:/Users/Munchausen/Google%20Drive/Personalpage"
+    "publishPath": "file:///T:/Githubpersonalpage/dennisthom.github.io"
   },
   "pages": {
     "index.html": {
@@ -47,7 +47,7 @@
             "showArrow": false
           },
           "title": "Dennis Thom",
-          "text": "Visual Analytics | Machine Learning | Social Media Data",
+          "text": "Site currently until construction. But until then ...",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://de.lmgtfy.com/?q=Dr.+Dennis+Thom\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LET ME GOOGLE ME FOR YOU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://scholar.google.de/citations?user=YfF3p4UAAAAJ&amp;hl=de&amp;oi=ao\" data-toolbar=\"-mbrBtnMove\">ALSO ON SCHOLAR</a>",
           "_styles": {
             ".btn": {
