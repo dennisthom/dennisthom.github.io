@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.10",
+    "versionPublish": "2.9.10",
+    "name": "DennisThom",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Munchausen/Google%20Drive/Personalpage"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hell-anzug-dennis-4652-009-1700x1131-90.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Dennis Thom",
+          "text": "Visual Analytics | Machine Learning | Social Media Data",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://de.lmgtfy.com/?q=Dr.+Dennis+Thom\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LET ME GOOGLE ME FOR YOU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://scholar.google.de/citations?user=YfF3p4UAAAAJ&amp;hl=de&amp;oi=ao\" data-toolbar=\"-mbrBtnMove\">ALSO ON SCHOLAR</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
