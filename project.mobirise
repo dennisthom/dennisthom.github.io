@@ -44,16 +44,281 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "showArrow": true
           },
           "title": "Dennis Thom",
-          "text": "Site currently until construction. But until then ...",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://de.lmgtfy.com/?q=Dr.+Dennis+Thom\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LET ME GOOGLE ME FOR YOU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://scholar.google.de/citations?user=YfF3p4UAAAAJ&amp;hl=de&amp;oi=ao\" data-toolbar=\"-mbrBtnMove\">ALSO ON SCHOLAR</a>",
+          "text": "Visual Analytics | Machine Learning | Social Media Data",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#contacts2-12\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://www.linkedin.com/in/dr-dennis-thom-510289116/\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a> ",
           "_styles": {
             ".btn": {
               "font-size": "14px"
             }
           }
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-10",
+          "text": "<p>Dr. Dennis Thom is one of the co-founders of ScatterBlogs, a company specializing in real-time and location-based social media analytics. He is an experienced public speaker presenting since almost a decade at major scientific conferences, enterpreneurship venues, private industry events, and academic lectures. Dennis Thom has authored and co-authored more than 30 papers and book chapters in major peer-reviewed publications. His research interests cover the areas of visual analytics, data mining, information retrieval, and social media monitoring.</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-07</b></p><p class=\"mbr-reviews__p\">\"Künstliche Intelligenz und visuelle Analyse zur Lagedarstellung\"</p>",
+              "authorName": "Deutsche Hochschule der Polizei",
+              "authorBio": "Münster, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-08-05</b></p><p class=\"mbr-reviews__p\">\"Visual Analytics of Geosocial Network Data\"</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ZJU International Summer School",
+              "authorBio": "Hangzhou, China"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-06-06</b></p><p class=\"mbr-reviews__p\">\"Social Media Analyse in der Polizeilichen Lagebeurteilung\"</p>",
+              "authorName": "DHPol Management Kolleg",
+              "authorBio": "Münster, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-20</b></p><p class=\"mbr-reviews__p\">“Wie Journalisten Künstliche Intelligenz für ihre Arbeit nutzen”</p>",
+              "authorName": "WISSENSWERTE KONGRESS",
+              "authorBio": "Bremen, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-29</b></p><p class=\"mbr-reviews__p\">“Visuelle Analyse Sozialer Medien im Bevölkerungsschutz”</p>",
+              "authorName": "HAW Ringvorlesung",
+              "authorBio": "Hamburg"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2017-08-01</b></p><p class=\"mbr-reviews__p\">“Statistical Graphs and Interaction in Visualization”</p>",
+              "authorName": "SeSaMe Singapore",
+              "authorBio": "Singapore"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-07</b></p><p class=\"mbr-reviews__p\">\"Künstliche Intelligenz und visuelle Analyse zur Lagedarstellung\"</p>",
+              "authorName": "Deutsche Hochschule der Polizei",
+              "authorBio": "Münster, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-08-05</b></p><p class=\"mbr-reviews__p\">\"Visual Analytics of Geosocial Network Data\"</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ZJU International Summer School",
+              "authorBio": "Hangzhou, China"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-06-06</b></p><p class=\"mbr-reviews__p\">\"Social Media Analyse in der Polizeilichen Lagebeurteilung\"</p>",
+              "authorName": "DHPol Management Kolleg",
+              "authorBio": "Münster, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-20</b></p><p class=\"mbr-reviews__p\">“Wie Journalisten Künstliche Intelligenz für ihre Arbeit nutzen”</p>",
+              "authorName": "WISSENSWERTE KONGRESS",
+              "authorBio": "Bremen, Germany"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2018-11-29</b></p><p class=\"mbr-reviews__p\">“Visuelle Analyse Sozialer Medien im Bevölkerungsschutz”</p>",
+              "authorName": "HAW Ringvorlesung",
+              "authorBio": "Hamburg"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>2017-08-01</b></p><p class=\"mbr-reviews__p\">“Statistical Graphs and Interaction in Visualization”</p>",
+              "authorName": "SeSaMe Singapore",
+              "authorBio": "Singapore"
+            }
+          ],
+          "_anchor": "testimonials1-8",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "6",
+            "showName": true,
+            "showBio": true
+          },
+          "header": "MOST RECENT PUBLIC TALKS"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-15",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "LIST OF PUBLICATIONS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Have a look at my Google Scholar page for a comprehensive and up-to-date list of my publications:</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://scholar.google.de/citations?user=YfF3p4UAAAAJ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">OPEN GOOGLE SCHOLAR</a>"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-18",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
+        },
+        {
+          "_name": "contacts2",
+          "_anchor": "contacts2-12",
+          "_params": {
+            "address": "Nobelstr. 15, 70569 Stuttgart",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "info": ""
+          },
+          "coord": [
+            48.7395512,
+            9.098533999999972
+          ],
+          "text1": "<strong>ADDRESS</strong><br>\nNobelstr. 15<br>\n70569 Stuttgart<br><br>\n<strong>CONTACTS</strong><br>\nEmail: thom@scatterblogs.com<br>\nPhone: +49 (0) 152 27520088<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.scatterblogs.com/\">ScatterBlogs GmbH</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.vis.uni-stuttgart.de/institut/mitarbeiter/Thom/?__locale=de\">VIS, University of Stuttgart</a></li><li><br></li></ul>"
         }
       ]
     }
