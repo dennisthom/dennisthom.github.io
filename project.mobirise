@@ -26,6 +26,11 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "header1-3",
           "_params": {
             "parallax": true,
@@ -48,12 +53,7 @@
           },
           "title": "Dennis Thom",
           "text": "Visual Analytics | Machine Learning | Social Media Data",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#contacts2-12\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://www.linkedin.com/in/dr-dennis-thom-510289116/\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "14px"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#contacts2-12\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://www.linkedin.com/in/dr-dennis-thom-510289116/\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a> "
         },
         {
           "_name": "content1",
@@ -203,6 +203,9 @@
           ],
           "_anchor": "testimonials1-8",
           "_params": {
+            "count": "6",
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -211,10 +214,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "count": "6",
-            "showName": true,
-            "showBio": true
+            "showTitle": true
           },
           "header": "MOST RECENT PUBLIC TALKS"
         },
